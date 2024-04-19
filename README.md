@@ -26,6 +26,20 @@
 
 ### Data Cleaning Swift script
 - The script used for data cleaning is an integral part of the project. So it is present as a part of the project with the name of "CoreDataHelper" swift file.
+
+### Login Credentials
+**Super Admin**
+Username: superadmin@gmail.com
+Password: admin
+
+**Admin**
+Username: d@gmail.com
+Password: 1111
+
+**Faculty**
+Username: f@gmail.com
+Password: 1111
+
 ---
 ## Contact Information
 1. Seelam Mounica - mounicaseelam7121@gmail.com
