@@ -19,8 +19,8 @@
    6. Copy the code given in firebase and paste it in the AppDelegate file of the app in Xcode.
 ---
 ## Contact Information
-1. Mounica Seelam - mounicaseelam7121@gmail.com
-2. Sri Harshika Sattor - sriharshika2101@gmail.com
+1. Seelam Mounica - mounicaseelam7121@gmail.com
+2. Sattor Sri Harshika - sriharshika2101@gmail.com
 3. Katta Chandi Priya - kattachandipriya@gmail.com
 4. Bodapati Supriya - supriyabodapati94@gmail.com
 5. Kalla Pavan Kumar Reddy - kallapavanreddy23@gmail.com
