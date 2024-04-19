@@ -32,4 +32,4 @@
 3. Katta Chandi Priya - kattachandipriya@gmail.com
 4. Bodapati Supriya - supriyabodapati94@gmail.com
 5. Kalla Pavan Kumar Reddy - kallapavanreddy23@gmail.com
-6. Kandimalla Manoj Kumar - 
+6. Kandimalla Manoj Kumar - manojkumarkandimalla44@gmail.com
