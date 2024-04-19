@@ -29,15 +29,21 @@
 
 ### Login Credentials
 **Super Admin**
+
 Username: superadmin@gmail.com
+
 Password: admin
 
 **Admin**
+
 Username: d@gmail.com
+
 Password: 1111
 
 **Faculty**
+
 Username: f@gmail.com
+
 Password: 1111
 
 ---
