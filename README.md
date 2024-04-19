@@ -17,6 +17,14 @@
    4. Then download the info list and drag drop the downloaded file into the project in xcode.
    5. Copy the GitHub link given below ( https://github.com/firebase/firebase-ios-sdk) and paste it in the “add packages” option in Xcode.
    6. Copy the code given in firebase and paste it in the AppDelegate file of the app in Xcode.
+ 
+### Running the app
+- Download the zip file from the github.
+- Extract the zip file.
+- Run the app using xcode.
+
+### Data Cleaning Swift script
+- The script used for data cleaning is an integral part of the project. So it is present as a part of the project with the name of "CoreDataHelper" swift file.
 ---
 ## Contact Information
 1. Seelam Mounica - mounicaseelam7121@gmail.com
