@@ -21,7 +21,8 @@
 ### Running the app
 - Download the zip file from the github.
 - Extract the zip file.
-- Run the app using xcode.
+- Open the file named **"Education Visualizer.xcodeproj"** using xcode.
+- Now run the same file by clicking on the run button in xcode.
 
 ### Data Cleaning Swift script
 - The script used for data cleaning is an integral part of the project. So it is present as a part of the project with the name of "CoreDataHelper" swift file.
